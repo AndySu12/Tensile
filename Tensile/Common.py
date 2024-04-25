@@ -228,7 +228,7 @@ globalParameters["SupportedISA"] = [(8,0,3),
                                     (9,0,0), (9,0,6), (9,0,8), (9,0,10),
                                     (9,4,0), (9,4,1), (9,4,2),
                                     (10,1,0), (10,1,1), (10,1,2), (10,3,0), (10,3,1),
-                                    (11,0,0), (11,0,1), (11,0,2)] # assembly kernels writer supports these architectures
+                                    (11,0,0), (11,0,1), (11,0,2), (11,0,5)] # assembly kernels writer supports these architectures
 
 globalParameters["CleanupBuildFiles"] = False                     # cleanup build files (e.g. kernel assembly) once no longer needed
 globalParameters["GenerateManifestAndExit"] = False               # Output manifest file with list of expected library objects and exit
